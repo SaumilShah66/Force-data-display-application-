@@ -1,4 +1,4 @@
-# Force-data-display-application-
+# Force-data-display-application
 This is a GUI based application which shows 
 
 https://www.youtube.com/watch?v=WfG_0LNthoY
